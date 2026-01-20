@@ -1,6 +1,6 @@
 ## Hi, I’m Ruby 👋
 
-I’m a **Data Engineer** with experience building production-style data pipelines, analytics layers, and software-driven data systems. My focus is on turning raw data into clean, reliable datasets that support analytics, reporting, and downstream use cases.
+I’m a **Data Engineer** with experience building software-driven data pipelines and analytics layers.My focus is on turning raw data into clean, reliable datasets that support analytics, reporting, and downstream use cases.
 
 ### 🔧 Core Areas
 - Data engineering & analytics pipelines (Python, SQL, Postgres)
