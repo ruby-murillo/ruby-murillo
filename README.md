@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I’m Ruby 👋
 
-<!--
-**ruby-murillo/ruby-murillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Data Engineer** with experience building production-style data pipelines, analytics layers, and software-driven data systems. My focus is on turning raw data into clean, reliable datasets that support analytics, reporting, and downstream use cases.
 
-Here are some ideas to get you started:
+### 🔧 Core Areas
+- Data engineering & analytics pipelines (Python, SQL, Postgres)
+- Data quality, validation, and monitoring
+- Analytics & BI (Tableau)
+- Applied data science and AI/ML (project-based)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- **Spotify Data Engineering Pipeline**  
+  End-to-end pipeline with ingestion, clean layer, analytics layer, and data quality checks.  
+  *(Python, SQL, Postgres)*
+
+More projects across software, analytics, and AI/ML will be added over time.
+
+---
+
+📫 **Connect**
+- LinkedIn: https://www.linkedin.com/in/ruby-murillo
